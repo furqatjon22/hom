@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.tor{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    list-style: none;
+    margin-top: 30px;
+}
+
+
+.tor2{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    margin-top: 100px;
+}
+
+
+section{
+    position: relative;
+}
+.tor3{
+    position:absolute;
+    top: 10px;
+    /* margin: 150px;  */
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
